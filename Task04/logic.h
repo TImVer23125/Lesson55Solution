@@ -1,1 +1,1 @@
-#pragma once
+bool is_equal(int n, int s);
