@@ -1,1 +1,1 @@
-#pragma once
+int count_number_digits(int number);
